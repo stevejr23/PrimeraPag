@@ -8,7 +8,7 @@ Here is a note!
 :::
 
 And here is a code block:
-Steve Cool
+SOFIA PRUEBA
 
 ```
 e = mc^2
