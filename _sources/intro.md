@@ -8,8 +8,7 @@ Here is a note!
 :::
 
 And here is a code block:
-SOFIA PRUEBA
-
+Coooool
 ```
 e = mc^2
 ```
